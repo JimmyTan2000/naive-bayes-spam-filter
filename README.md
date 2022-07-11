@@ -5,4 +5,4 @@ Spam Filter with Self-Built Naive Bayes Classifier
 "spamfilter.py" inside the "Project Codes" folder
 
 ## For more theories, please refer to:
-Project Report.pdf
+Project_Report.pdf
